@@ -1,0 +1,1 @@
+{"e27e8c19a5e221cec03a9d17e3906a72":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"8c8134093ce30fb5","reportUrl":"http://localhost:8080/job/selenium/10/allure/#testresult/8c8134093ce30fb5","status":"passed","time":{"start":1775025612642,"stop":1775025613948,"duration":1306}}]}}
