@@ -50,6 +50,6 @@ def driver():
 
 
 def test_google_title(driver):
-    driver.get("https://www.google.com")
-    assert "Google" in driver.title
+    driver.get("https://instagram.com/")
+    assert "Instagram" in driver.title
 
